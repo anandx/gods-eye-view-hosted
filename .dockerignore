@@ -1,0 +1,10 @@
+.git
+node_modules
+dist
+docs/media
+screenshots
+qa-shots
+.env*
+!.env.example
+.gev-cache
+.gev-logs
